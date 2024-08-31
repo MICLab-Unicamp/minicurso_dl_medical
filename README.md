@@ -14,10 +14,10 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 2. Garbage in, garbage out 
   - *Teoria:* Diretrizes e armadilhas a serem evitadas para não ter dores de cabeça com dados: da ética à curadoria, organização e armazenamento de dados em um ambiente de laboratório de pesquisa.
   - *Prática:* pré-processamento e uso dos seus dados. Uma rede neural convolucional pode identificar modalidades de RM?
-2. Modelos: o melhor? Depende. (1h)
+2. Modelos: o melhor? Depende
   - *Teoria:* Como funcionam realmente os modelos baseados em CNN e Transformer?
   - *Prática:* Modelos multimodais envolvendo imagens e textos médicos.
-3. Processamento e avaliação de saída: dos and don'ts. (40min)
+3. Processamento e avaliação de saída: dos and don'ts
   - *Teoria:* Métricas são mais complicadas do que parece.
   - *Prática:* O Dice não é tudo na avaliação de segmentação de imagens médicas.
 
