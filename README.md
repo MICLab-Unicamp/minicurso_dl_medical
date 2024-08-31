@@ -1,4 +1,4 @@
-# Minicurso DL for Medical Image Analysis
+# Minicurso: Aprendizado Profundo para análise de imagens médicas
 Repositório para mini-curso Aprendizado Profundo para análise de imagens médicas: dicas, truques e armadilhas
 
 ## Público-alvo: 
