@@ -37,6 +37,7 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 ### Parte 3 - sobre métricas
 1. https://www.nature.com/articles/s41592-023-02151-z
 2. https://metrics-reloaded.dkfz.de/
+3. https://www.nature.com/articles/s41592-023-02150-0
 
 ## Sobre os organizadores deste curso
 
