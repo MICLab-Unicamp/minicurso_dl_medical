@@ -38,3 +38,15 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 1. https://www.nature.com/articles/s41592-023-02151-z
 2. https://metrics-reloaded.dkfz.de/
 
+## Sobre os organizadores deste curso
+
+*Letícia Rittner, PhD*
+
+Professora na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
+
+
+*Diedre Carmo, PhD*
+
+Pesquisador de pós-doutorado na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
+
+
