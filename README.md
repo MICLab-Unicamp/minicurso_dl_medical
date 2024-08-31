@@ -23,18 +23,18 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 
 ## Materiais utilizados
 
-Slides
-Notebooks
+- Slides
+- Notebooks
 
 ## Outros materiais interessantes sobre o assunto
 
-### Parte 1 - sobre dados:
+### Parte 1 - sobre dados
 1. https://www.physicamedica.com/article/S1120-1797(21)00095-8/fulltext
 2. 
 
-### Parte 2 - sobre modelos:
+### Parte 2 - sobre modelos
 
-### Parte 3 - sobre métricas:
+### Parte 3 - sobre métricas
 1. https://www.nature.com/articles/s41592-023-02151-z
 2. https://metrics-reloaded.dkfz.de/
 
