@@ -29,22 +29,28 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 ## Outros materiais interessantes sobre o assunto
 
 ### Parte 1 - sobre dados
-1. https://www.physicamedica.com/article/S1120-1797(21)00095-8/fulltext
-2. 
+1. Diaz, Oliver, et al. "Data preparation for artificial intelligence in medical imaging: A comprehensive guide to open-access platforms and tools." Physica medica 83 (2021): 25-37. [Link](https://www.physicamedica.com/article/S1120-1797(21)00095-8/fulltext)
+2. Carmo, Diedre, et al. "Automated computed tomography and magnetic resonance imaging segmentation using deep learning: a beginner's guide." arXiv preprint arXiv:2304.05901 (2023). [Link](https://arxiv.org/pdf/2304.05901)
 
 ### Parte 2 - sobre modelos
+1. Vaswani, A. "Attention is all you need." Advances in Neural Information Processing Systems (2017). [Link](https://user.phil.hhu.de/~cwurm/wp-content/uploads/2020/01/7181-attention-is-all-you-need.pdf)
+2. Tan, Mingxing. "Efficientnet: Rethinking model scaling for convolutional neural networks." arXiv preprint arXiv:1905.11946 (2019). [Link](https://arxiv.org/pdf/1905.11946)
+3. Visualizando CNNs: CNN Explainer [Link](https://poloclub.github.io/cnn-explainer/)
+4. Visualizando Transformers: Transformer Explainer [Link](https://poloclub.github.io/transformer-explainer/)
 
 ### Parte 3 - sobre métricas
-1. https://www.nature.com/articles/s41592-023-02151-z
-2. https://metrics-reloaded.dkfz.de/
-3. https://www.nature.com/articles/s41592-023-02150-0
-4. https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06096-y
+1. Maier-Hein, Lena, et al. "Metrics reloaded: recommendations for image analysis validation." Nature methods 21.2 (2024): 195-212. [Link](https://www.nature.com/articles/s41592-023-02151-z) [Framework](https://metrics-reloaded.dkfz.de/)
+3. Reinke, Annika, et al. "Understanding metric-related pitfalls in image analysis validation." Nature methods 21.2 (2024): 182-194. [Link](https://www.nature.com/articles/s41592-023-02150-0)
+4. Müller, Dominik, Iñaki Soto-Rey, and Frank Kramer. "Towards a guideline for evaluation metrics in medical image segmentation." BMC Research Notes 15.1 (2022): 210. [Link](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06096-y)
+5. Taha, Abdel Aziz, and Allan Hanbury. "Metrics for evaluating 3D medical image segmentation: analysis, selection, and tool." BMC medical imaging 15 (2015): 1-28. [Link](https://link.springer.com/content/pdf/10.1186/s12880-015-0068-x.pdf)
 
 ## Sobre os organizadores deste curso
 
 *Letícia Rittner, PhD* - Professora na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
+[LinkedIn](https://www.linkedin.com/in/leticia-rittner-918482/) [Google Scholar](https://scholar.google.com.br/citations?user=pVEK9qkAAAAJ&hl=en)
 
 *Diedre Carmo, PhD* - Pesquisador de pós-doutorado na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
+[LinkedIn](https://www.linkedin.com/in/diedre-carmo-4490572b/) [Google Scholar](https://scholar.google.com.br/citations?user=YjA3hdoAAAAJ&hl=en)
 
-Medical Image Computing Lab (MICLab)
+Medical Image Computing Lab ([MICLab](https://miclab.fee.unicamp.br/))
 
