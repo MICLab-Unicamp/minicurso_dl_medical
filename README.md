@@ -1,4 +1,4 @@
-# minicurso_dl_medical
+# Minicurso DL for Medical Image Analysis
 Repositório para mini-curso Aprendizado Profundo para análise de imagens médicas: dicas, truques e armadilhas
 
 ## Público-alvo: 
@@ -16,13 +16,13 @@ A entrada, ou seja, os dados, é uma das partes mais importantes do processament
 ## Programa do Curso:
 1. Visão geral do aprendizado profundo no processamento de imagens médicas 
 2. Garbage in, garbage out 
-  Teoria: Diretrizes e armadilhas a serem evitadas para não ter dores de cabeça com dados: da ética à curadoria, organização e armazenamento de dados em um ambiente de laboratório de pesquisa.
-  Prática: pré-processamento e uso dos seus dados. Uma rede neural convolucional pode identificar modalidades de RM?
+  - **Teoria:** Diretrizes e armadilhas a serem evitadas para não ter dores de cabeça com dados: da ética à curadoria, organização e armazenamento de dados em um ambiente de laboratório de pesquisa.
+  - **Prática:** pré-processamento e uso dos seus dados. Uma rede neural convolucional pode identificar modalidades de RM?
 2. Modelos: o melhor? Depende. (1h)
-  Teoria: Como funcionam realmente os modelos baseados em CNN e Transformer?
-  Prática: Modelos multimodais envolvendo imagens e textos médicos.
+  - Teoria: Como funcionam realmente os modelos baseados em CNN e Transformer?
+  - Prática: Modelos multimodais envolvendo imagens e textos médicos.
 3. Processamento e avaliação de saída: dos and don'ts. (40min)
-  Teoria: Métricas são mais complicadas do que parece.
-  Prática: O Dice não é tudo na avaliação de segmentação de imagens médicas.
+  - Teoria: Métricas são mais complicadas do que parece.
+  - Prática: O Dice não é tudo na avaliação de segmentação de imagens médicas.
 
 
