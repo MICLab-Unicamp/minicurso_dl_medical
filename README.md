@@ -38,6 +38,7 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 1. https://www.nature.com/articles/s41592-023-02151-z
 2. https://metrics-reloaded.dkfz.de/
 3. https://www.nature.com/articles/s41592-023-02150-0
+4. https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06096-y
 
 ## Sobre os organizadores deste curso
 
