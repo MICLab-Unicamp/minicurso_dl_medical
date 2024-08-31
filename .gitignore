@@ -1,3 +1,17 @@
+# Large files
+*.ckpt
+*.nii.gz
+*.pth
+*.npz
+*.zip
+*.csv
+*.txt
+*tfevents*
+*hparams.yaml
+*.pdf
+*.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
