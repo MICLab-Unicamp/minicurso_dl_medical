@@ -40,13 +40,8 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 
 ## Sobre os organizadores deste curso
 
-*Letícia Rittner, PhD*
+*Letícia Rittner, PhD* - Professora na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
+*Diedre Carmo, PhD* - Pesquisador de pós-doutorado na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
 
-Professora na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
-
-
-*Diedre Carmo, PhD*
-
-Pesquisador de pós-doutorado na Faculdade de Engenharia Elétrica e de Computação, UNICAMP
-
+Medical Image Computing Lab (MICLab)
 
