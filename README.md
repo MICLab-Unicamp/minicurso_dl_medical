@@ -24,7 +24,9 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 ## Materiais utilizados
 
 - [Slides](slides/.)
-- Notebooks
+- [Notebook 1: Classificação de sequência de MRI](./Aplicação_1_Classificação_de_modalidade_de_MRI.ipynb)
+- [Notebook 2: Busca Multimodal em dados Médicos](./Aplicação_2_Busca_Multimodal_em_dados_Médicos.ipynb)
+- [Notebook 3: Métricas e pós-processamento](./Aplicação_3_Métricas_e_Pós_processamento.ipynb)
 
 ## Outros materiais interessantes sobre o assunto
 
