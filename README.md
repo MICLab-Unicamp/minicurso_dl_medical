@@ -23,7 +23,7 @@ Neste curso, apresentaremos uma introdução ao campo do aprendizado profundo em
 
 ## Materiais utilizados
 
-- Slides
+- [Slides](slides/.)
 - Notebooks
 
 ## Outros materiais interessantes sobre o assunto
